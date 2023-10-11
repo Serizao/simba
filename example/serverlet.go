@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/PichuChen/simba"
+	"github.com/Serizao/simba"
 )
 
 func main() {
