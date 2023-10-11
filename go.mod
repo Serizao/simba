@@ -1,4 +1,4 @@
-module github.com/PichuChen/simba
+module github.com/Serizao/simba
 
 go 1.18
 
